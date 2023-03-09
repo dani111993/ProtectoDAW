@@ -1,0 +1,94 @@
+h1{
+    width: 400px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:darkviolet;
+    text-align: center;
+}
+
+.Transmision{
+    display: block;
+    width: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    background-color: white;
+    border-radius: 10px;
+    border-color: darkviolet;
+    padding: 15px 30px;
+}
+
+button{
+    color: darkviolet;
+    border-radius: 10px;
+    border-color: darkviolet;
+}
+
+.imagen{
+    width: 100px;
+    
+}
+
+.image{
+    width: 500px;
+    height: 320px;
+    justify-content: center;
+}
+
+p{
+    color: darkviolet;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.imagenfaceded{
+    justify-content: center;
+    width: 30px;
+}
+
+.imagentwitded{
+    justify-content: center;
+    width: 30px;
+}
+
+.imagen2{
+    justify-content: center;
+    width: 350px;
+    height: 300px;
+}
+
+.imagenfacemariana{
+    width: 30px;
+}
+
+.imagentwitmariana{
+    justify-content: center;
+    width: 30px;
+}
+
+.imagen3{
+    justify-content: center;
+    width: 510px;
+    height: 310px;
+}
+
+.imagentwitRivers{
+    justify-content: center;
+    width: 30px;
+}
+
+.imagenfaceRivers{
+    justify-content: center;
+    width: 30px;
+}
+
+p{
+    color: darkviolet;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.Bits{
+    width: 150px;
+    padding: 200px;
+}

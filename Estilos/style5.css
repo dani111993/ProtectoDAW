@@ -1,0 +1,98 @@
+h1{
+    width: 60px;
+    height: 49px;
+    color: darkviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-indent: 600px;
+}
+
+.imagen{
+    width: 60px;
+}
+
+h2{
+    width: 60px;
+    height: 49px;
+    color: darkviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-justify: kashida;
+    text-align: center;
+    text-indent: 560px;
+}
+
+.boton1{
+    color: darkviolet;
+    background-position-x: center;
+    border-color: darkviolet;
+    width: 180px;
+    
+}
+
+.boton12{
+    color: darkviolet;
+    border-color: darkviolet;
+    width: 180px;
+}
+
+.boton2{
+    color:darkviolet;
+    border-color: darkviolet;
+    width: 180px; 
+}
+
+.boton13{
+    color: darkviolet;
+    border-color: darkviolet;
+    width: 180px;
+}
+
+.boton3{
+    color: darkviolet;
+    border-color: darkviolet;
+    width: 180px;
+}
+
+.boton14{
+    color: darkviolet;
+    border-color: darkviolet;
+    width: 180px;
+
+}
+
+.boton4{
+color: darkviolet;
+border-color: darkviolet;
+width: 180px;
+}
+
+p{
+    color: darkviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.pgnprinc{
+    color: darkviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.boton15{
+    color: darkviolet;;
+    border-color: darkviolet;
+    width: 180px;
+}
+
+p{
+    color: darkviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Juegoslinea{
+    width: 490px;
+    height: 250px;
+}
+
+.Juegoslinea2{
+    width: 490px;
+    height: 250px;
+}
